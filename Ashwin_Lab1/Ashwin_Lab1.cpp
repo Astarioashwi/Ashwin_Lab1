@@ -1,7 +1,4 @@
-// Edited directly on GitHub
-// Ashwin_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// // changed by aman
-//
+// Changed by Edwin
 
 #include <iostream>
 using namespace std;
